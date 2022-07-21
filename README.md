@@ -18,3 +18,5 @@ project/
 In the `R` directory you will find the scripts. Let's start using R!
 
 We are now adding new line because the teacher told so!
+
+Testando!!!
